@@ -1,4 +1,4 @@
-#Hello the secret word is unicorn
+#Hello the secret word is unicorn boi you better get your
 import time
 from tkinter import *
 window = Tk()
