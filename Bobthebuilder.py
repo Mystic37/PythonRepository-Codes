@@ -1,3 +1,4 @@
+#Hello the secret word is unicorn
 import time
 from tkinter import *
 window = Tk()
